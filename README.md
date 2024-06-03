@@ -74,23 +74,42 @@ https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 Linear Regression:
 
 ● Scikit-learn documentation:
+
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
 ● Wikipedia article:
+
 https://en.wikipedia.org/wiki/Ordinary_least_squares
+
 ● Towards Data Science article:
+
 https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf6
 75
+
 Random Forest Regression:
+
 ● Scikit-learn documentation:
+
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
 ● Machine Learning Mastery: 
+
 https://machinelearningmastery.com/
+
 ● Kaggle Learn course:
+
 https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
+
 GridSearchCV:
+
 ● Scikit-learn documentation:
+
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
 ● Machine Learning Crash Course:
+
 https://developers.google.com/machine-learning/crash-course
+
 ● Analytics Vidhya article:
+
 https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
